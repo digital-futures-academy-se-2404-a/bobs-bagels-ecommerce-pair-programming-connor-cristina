@@ -1,0 +1,61 @@
+* {
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#topBar {
+	background-color: bisque;
+	text-align: center;
+}
+#desc {
+	padding-top: 4%;
+	padding-bottom: 4%;
+	background-color: bisque;
+}
+footer {
+	background-color: rgb(208, 185, 157);
+}
+.bg-image {
+	background-image: url("./images/bagels.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+h1 {
+	color: rgb(165, 130, 16);
+}
+#url {
+	width: 100%;
+}
+
+#label {
+	background-color: rgba(77, 77, 77, 0.627);
+	color: rgb(165, 130, 16);
+	outline-color: rgb(0, 0, 0);
+	text-align: center;
+}
+
+.navBar {
+	background-color: rgba(184, 184, 184, 0.644);
+	margin-bottom: 10%;
+}
+#desc {
+	text-align: center;
+}
+
+#label2 {
+	color: rgb(2, 5, 5);
+	font-style: bold;
+	text-align: center;
+}
+svg {
+	color: rgb(2, 5, 5);
+}
+
+#img2 {
+	max-width: 100%;
+}
+
+#navItem {
+	color: black;
+	text-wrap: 100%;
+}
